@@ -1,4 +1,4 @@
-// 1. Create 4 variables. These variables should store your (1) First Name, (2) Last Name, (3) age, (4) birth month, and (5) Your favorite number. 
+// 1. Create 5 variables. These variables should store your (1) First Name, (2) Last Name, (3) age, (4) birth month, and (5) Your favorite number. 
 
 
 
